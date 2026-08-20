@@ -1,0 +1,3 @@
+material,cure_time_multiplier,notes
+HexPly_8552,1.00,Reference composite prepreg profile used for the base workshop scenario.
+FastCure_Demo,0.75,Synthetic faster-cure profile for data-only what-if comparison.

@@ -1,0 +1,6 @@
+job_id,source_point,defect_type,ready_min,due_min,duration_min,priority,required_resource
+RW-01,D-02 Drill,burr,5,45,12,8,deburr
+RW-02,D-05 Drill,misalignment,10,60,18,10,inspect_and_fix
+RW-03,D-06 Drill,sealant_gap,20,80,20,6,sealant
+RW-04,D-01 Final Ream,edge_finish,25,70,10,7,deburr
+RW-05,D-03 Drill,fastener_check,35,95,15,5,inspect_and_fix

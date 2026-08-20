@@ -1,0 +1,4 @@
+resource_id,resource_type,capacity_per_slot
+TECH-1,deburr,1
+TECH-2,inspect_and_fix,1
+TECH-3,sealant,1

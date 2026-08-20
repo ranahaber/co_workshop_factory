@@ -1,0 +1,17 @@
+part_id,part_type,material,ready_hr,deadline_hr,cure_time_hr,priority,area_m2
+P-201,skin_panel,HexPly_8552,0,6,2.0,9,2.4
+P-202,rib,HexPly_8552,0,7,2.0,8,1.4
+P-203,panel,HexPly_8552,0,9,2.0,7,2.2
+P-204,spar_cap,HexPly_8552,0,5,2.5,10,2.8
+P-205,spar_cap,HexPly_8552,0,6,2.5,9,2.6
+P-206,spar_cap,HexPly_8552,0,8,2.5,8,2.5
+P-207,stiffener,HexPly_8552,3,10,1.5,5,1.0
+P-208,bracket,HexPly_8552,3,10,1.5,4,0.8
+P-209,panel,HexPly_8552,3,10,2.0,6,2.0
+P-210,panel,HexPly_8552,6,14,2.0,6,2.3
+P-211,skin_panel,HexPly_8552,6,15,2.0,5,2.1
+P-212,spar_cap,HexPly_8552,6,13,2.5,8,2.7
+P-213,rib,HexPly_8552,9,18,2.0,4,1.5
+P-214,spar_cap,HexPly_8552,9,17,2.5,7,2.6
+P-215,stiffener,HexPly_8552,9,16,1.5,3,1.1
+P-216,panel,HexPly_8552,12,21,2.0,5,2.0

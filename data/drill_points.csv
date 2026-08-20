@@ -1,0 +1,9 @@
+point_id,label,x_mm,y_mm,operation,zone
+0,HOME,0,0,home,home
+1,D-01 Pilot,120,340,pilot,A
+2,D-02 Drill,260,340,drill,A
+3,D-03 Drill,400,340,drill,A
+4,D-04 Drill,120,180,drill,B
+5,D-05 Drill,260,180,drill,B
+6,D-06 Drill,400,180,drill,B
+7,D-01 Final Ream,120,340,ream,A
