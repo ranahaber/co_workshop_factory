@@ -1,0 +1,13 @@
+--extra-index-url https://pypi.nvidia.com
+
+# Factory workshop dependencies.
+# cuOpt 26.06 is published as the 26.6.x Python package series.
+cuopt-cu12==26.6.*
+numpy>=1.22,<2.3
+pandas
+jinja2
+matplotlib
+networkx
+jupyterlab
+ipykernel
+notebook

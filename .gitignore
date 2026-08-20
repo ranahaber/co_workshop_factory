@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.log
+
+# Generated/local export copies; do not track duplicate launchable folders.
+exports/
+PLANNING/
